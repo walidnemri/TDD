@@ -1,0 +1,19 @@
+{
+  "name": "tdd",
+  "version": "1.0.0",
+  "description": "learn tdd",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/walidnemri/TDD.git"
+  },
+  "author": "walid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/walidnemri/TDD/issues"
+  },
+  "homepage": "https://github.com/walidnemri/TDD#readme"
+}
