@@ -4,7 +4,7 @@
   "description": "learn tdd",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/walidnemri/TDD/issues"
   },
-  "homepage": "https://github.com/walidnemri/TDD#readme"
+  "homepage": "https://github.com/walidnemri/TDD#readme",
+  "devDependencies": {
+    "mocha": "^8.1.3"
+  }
 }
